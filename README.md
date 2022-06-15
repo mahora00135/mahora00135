@@ -15,7 +15,7 @@
 
 
 
-## 🙍‍♀️  About me
+# 🙍‍♀️  About me
 - :computer: I’m interested in working with `data` and `discovering patterns` and `analyzing problems`.
 - :technologist: I love using Software as a solution for every `Problem`
 - 🌱 I’m currently learning `AI`and `data mining`.
@@ -25,7 +25,7 @@
 
 
 
-#  ☎️ contact me
+#  ☎️ Contact me
 <p align="center">
 	<a href="mailto:mahoora00135@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/mahora00135"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
