@@ -19,7 +19,7 @@
 - :computer: I’m interested in working with `data` and `discovering patterns` and `analyzing problems`.
 - :technologist: I love using Software as a solution for every `Problem`
 - 🌱 I’m currently learning `AI`and `data mining`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://github.com/mahora00135/mahora00135/blob/main/resources/document/Resume.pdf).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://github.com/mahora00135/mahora00135/blob/main/resources/document/resume.pdf).
 - :nerd_face: Always `learning new things`
 <br>
 
