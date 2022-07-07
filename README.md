@@ -8,7 +8,7 @@
  <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mahora00135&color=brightgreen" alt="watching_count" />
 <img src="https://img.shields.io/badge/Age-23-blue" />
-<img src="https://img.shields.io/badge/Focus-AI%20& Data Mining-brightgreen" />
+<img src="https://img.shields.io/badge/Focus-AI%20& Data Science-brightgreen" />
 <img src="https://img.shields.io/badge/Lives-Iran-success" />
 <img src="https://img.shields.io/badge/Languages-English%20%26%20Persian-brightgreen" />
 </p>
