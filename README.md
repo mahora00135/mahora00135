@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Fateme Mohammadi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;I+am+a+mother+and+a+programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;I+am+a+mother+and+a+developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -18,7 +18,7 @@
 # 🙍‍♀️  About me
 - :computer: I’m interested in working with `data` and `discovering patterns` and `analyzing problems`.
 - :technologist: I love using Software as a solution for every `Problem`
-- 🌱 I’m currently learning `AI`and `data mining`.
+- 🌱 I’m currently learning `AI`and `data science`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://github.com/mahora00135/mahora00135/blob/main/resources/document/resume.pdf).
 - :nerd_face: Always `learning new things`
 <br>
